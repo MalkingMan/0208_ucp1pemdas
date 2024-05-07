@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+
+struct lokasi
+{
+    string nama lokasi;
+    string kualitas udara;
+}
+
+void display ()
+
+
+
+
+// [1. int main, include iostream, float
+// [2. prosedur fungsi
+// [3. for (i = 0; i , < 7; i++) 
+//   {
+//      cout << i <<". "<< "HEII" << endl;
+//	 }
+// [4. if (bilangan 1 = bilangan 2)
+//    if (bilangan1 == bilangan 2)
+//{
+//	status = "Bilangan 1 sama dengan bilangan 2";
+//}
+//  else if (bilangan1 > bilangan2)
+//{
+//	status = "Bilangan 1 lebih besar dari bilangan 2";
+//}
+//else
+//{
+//	status = "Bilangan 1 lebih kecil dari bilangan 2";
+//}
+// [5. struct udara
+//    { string kualitas udara
+//     string kesehatan
+// };
+
+
+
+
+    
+      
